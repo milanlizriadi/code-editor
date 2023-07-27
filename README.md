@@ -2,4 +2,4 @@
 
 # Code Editor
 
-- You can change the editor theme by editing <a href="index.html">index.html</a> file in line 12
+- You can change the editor theme by editing <a href="index.html">index.html</a> file in line 17
